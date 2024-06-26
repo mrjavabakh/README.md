@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.mds.yandex.net/i?id=1ccd3b22a7a1ff1f474e422b658b1926-4263155-images-thumbs&n=13" align="center" style="width: 50px " />
+<img src="https://avatars.mds.yandex.net/i?id=1ccd3b22a7a1ff1f474e422b658b1926-4263155-images-thumbs&n=13" align="center" style="width: 100px " />
 </div>  
   
 
